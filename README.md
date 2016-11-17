@@ -5,7 +5,7 @@
 [Install Docker and run hello-world](https://docs.docker.com/engine/getstarted/step_one/#step-1-get-docker)
 
 ### Installation is simple for Mac OS and Windows users:
-#### User Docker for Mac and Docker for Windows
+####    Use Docker for Mac and Docker for Windows
 
 ### Linux users need to install
 #### [Docker Engine](https://docs.docker.com/engine/installation/)
@@ -18,3 +18,6 @@
 
 > Provisions and manages remote Docker hosts
 > Provisions Swarm clusters
+
+    dsf
+
