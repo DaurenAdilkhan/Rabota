@@ -5,14 +5,9 @@
 #### - Use Docker for Mac and Docker for Windows
 - [Install Docker and run hello-world](https://docs.docker.com/engine/getstarted/step_one/#step-1-get-docker)
 
-### Linux users need to install everything manually
-#### [Docker Engine](https://docs.docker.com/engine/installation/)
-> Creates operating environment for your applications
-
-#### [Docker Compose](https://docs.docker.com/compose/install/)
-> Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a Compose file to configure your application’s services.
-
-#### [Docker Machine](https://docs.docker.com/machine/install-machine/)
-
-> Provisions and manages remote Docker hosts
-> Provisions Swarm clusters
+| Linux users need to install everything manually | |
+| --- | --- |
+| [Docker Engine](https://docs.docker.com/engine/installation/) | > Creates operating environment for your applications |
+| [Docker Compose](https://docs.docker.com/compose/install/)    | > Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a Compose file to configure your application’s services. |
+| [Docker Machine](https://docs.docker.com/machine/install-machine/) | > Provisions and manages remote Docker hosts |
+| | > Provisions Swarm clusters |
