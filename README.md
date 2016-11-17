@@ -2,12 +2,10 @@
 ## How to deploy a django website using docker
 
 ### 1. Install docker on your system
-[Install Docker and run hello-world](https://docs.docker.com/engine/getstarted/step_one/#step-1-get-docker)
+#### - Use Docker for Mac and Docker for Windows
+- [Install Docker and run hello-world](https://docs.docker.com/engine/getstarted/step_one/#step-1-get-docker)
 
-### Installation is simple for Mac OS and Windows users:
-####    Use Docker for Mac and Docker for Windows
-
-### Linux users need to install
+### Linux users need to install everything manually
 #### [Docker Engine](https://docs.docker.com/engine/installation/)
 > Creates operating environment for your applications
 
@@ -18,6 +16,3 @@
 
 > Provisions and manages remote Docker hosts
 > Provisions Swarm clusters
-
-    dsf
-
