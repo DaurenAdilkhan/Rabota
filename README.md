@@ -9,6 +9,6 @@
 
   | Package | What it does |
 | --- | --- |
-| [Docker Engine](https://docs.docker.com/engine/installation/) | <blockquote>Creates operating environment for your applications</blockquote> |
-| [Docker Compose](https://docs.docker.com/compose/install/)    | <blockquote>Compose is a tool for defining and running multi-container Docker applications. <br> With Compose, you use a Compose file to configure your application’s services. </blockquote> |
-| [Docker Machine](https://docs.docker.com/machine/install-machine/) | <blockquote>Provisions and manages remote Docker hosts <br> Provisions Swarm clusters</blockquote> |
+| [Docker Engine](https://docs.docker.com/engine/installation/) | Creates operating environment for your applications |
+| [Docker Compose](https://docs.docker.com/compose/install/)    | Compose is a tool for defining and running multi-container Docker applications. <br> With Compose, you use a Compose file to configure your application’s services.  |
+| [Docker Machine](https://docs.docker.com/machine/install-machine/) | Provisions and manages remote Docker hosts <br> Provisions Swarm clusters |
