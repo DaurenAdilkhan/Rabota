@@ -4,4 +4,4 @@
 
 | Topic     | Description |
 |---|---|
-|[Docker](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/docker.md)| Containerization platform
+|[Docker](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md)| Containerization platform
