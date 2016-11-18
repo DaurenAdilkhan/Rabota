@@ -25,6 +25,7 @@
 
 |Command|Purpose|
 |---|---|
+|docker run -ti name_of_an_image| run a docker image<br>-t for terminal & -i interactive<br>example: `docker run -ti ubuntu:latest bash`<br>if you don't have an ubuntu image, it will download and create it for you|
 |docker images| show docker images<br>- initial images are like systems (linux distros) |
 |docker ps | show docker containers|
 |docker ps -l| show last docker container<br>it is useful to create an image from a container|
