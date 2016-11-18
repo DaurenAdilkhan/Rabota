@@ -25,7 +25,7 @@
 
 |Command|Purpose|
 |---------|---|
-|docker run| run a docker image<br>-t terminal & -i interactive<br>example: `docker run -ti ubuntu:latest bash`<br>if you don't have an ubuntu image, it will download and create it for you|
+|docker run| run a docker image/container<br>-t terminal & -i interactive<br>example: `docker run -ti ubuntu:latest bash`<br>if you don't have an ubuntu image, it will download and create it for you<br>--rm removes a created container after it does its task(s)<br>-d detach, leave the container to run in the background|
 |docker images| show docker images<br>- initial images are like systems (linux distros) |
 |docker ps | show docker containers|
 |docker ps -l| show last docker container<br>it is helpful to create an image from a container|
