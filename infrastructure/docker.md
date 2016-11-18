@@ -31,4 +31,4 @@
 |docker ps | show docker containers|
 |docker ps -l| show last docker container<br>it is helpful to create an image from a container|
 |docker commit| create an image from a specified container, example:<br>`docker commit container_name image_name`|
-|docker tag| allows to change the name of the image, example<br> `docker tag previous_image_name new_image_name`|
+|docker tag| allows to change the name of the image, example:<br> `docker tag previous_image_name new_image_name`|
