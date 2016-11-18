@@ -24,10 +24,10 @@
 ### 3. Some important commands
 
 |Command|Purpose|
-|---|---|
-|docker run -ti name_of_an_image| run a docker image<br>-t for terminal & -i interactive<br>example: `docker run -ti ubuntu:latest bash`<br>if you don't have an ubuntu image, it will download and create it for you|
+|---------|---|
+|docker run| run a docker image<br>-t terminal & -i interactive<br>example: `docker run -ti ubuntu:latest bash`<br>if you don't have an ubuntu image, it will download and create it for you|
 |docker images| show docker images<br>- initial images are like systems (linux distros) |
 |docker ps | show docker containers|
 |docker ps -l| show last docker container<br>it is helpful to create an image from a container|
-|docker commit name_of_the_container| create an image from a specified container<br>example output: `sha256:aa4ed8ad491b9213f2b66d4e1fbba9de2f1777d25df7ffd320b6473426a6cf1e`|
-|docker tag| allows to change the name of the image, example<br> `docker tag a4ed8ad491b9213f2b66d4e1fbba9de2f1777d25df7ffd320b6473426a6cf1e new_image_name`|
+|docker commit| create an image from a specified container, example:<br>`docker commit container_name image_name`|
+|docker tag| allows to change the name of the image, example<br> `docker tag previous_image_name new_image_name`|
