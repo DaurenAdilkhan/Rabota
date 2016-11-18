@@ -21,3 +21,13 @@
       `{
   "psFormat": "table {{.Names}}\\t{{.Image}}\\t{{.Ports}}\\t{{.Status}}\\t{{.Command}}"
 }`
+
+### 3. Some important commands
+
+|Command|Purpose|
+|---|---|
+|docker images| show docker images<br>- initial images are like systems (linux distros) |
+|docker ps | show docker containers|
+|docker ps -l| show last docker container<br>it is useful to create an image from a container|
+|docker commit name_of_the_container| create an image from a specified container<br>example output: `sha256:aa4ed8ad491b9213f2b66d4e1fbba9de2f1777d25df7ffd320b6473426a6cf1e`|
+|docker tag| allows to change the name of the image, example<br> `docker tag a4ed8ad491b9213f2b66d4e1fbba9de2f1777d25df7ffd320b6473426a6cf1e new_image_name`|
