@@ -1,5 +1,4 @@
-# docker_guide
-## How to deploy a django website using docker
+# Personal docker cheatsheet
 
 ### 1. Install docker on your system
 - Use Docker for Mac and Docker for Windows
