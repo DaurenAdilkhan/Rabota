@@ -26,9 +26,9 @@
 |Command|Purpose|
 |---------|---|
 |docker run | run a docker image/container<br>-t terminal & -i interactive<br>example: `docker run -ti ubuntu:latest bash`<br>if you don't have an ubuntu image, it will download and create it for you<br>--rm removes a created container after it does its task(s)<br>-d detach, leave the container to run in the background|
-|docker kill| stop a container: `docker kill container_name`<br>- _stopped containers still exist_<br>to stop all:`docker stop $(docker ps -a -q`|
+|docker kill| stop a container: `docker kill container_name`<br>- _stopped containers still exist_<br>to stop all: `docker stop $(docker ps -a -q`|
 |docker rm| removes a container: `docker rm container_name`<br>to remove all: `docker rm $(docker ps -a -q)`|
-|docker attach | enter the container that is running<br> to exit container without turning it off:<br>either close the terminal tab or press <kbd>ctrl</kbd>+<kbd>P</kbd> then <kbd>ctrl</kbd>+<kbd>Q</kbd><br>- _make sure you don't have that binded to a command already_
+|docker attach |`docker attach` to enter the container that is running<br>exit container without turning it off:<br>either close the terminal tab or press <kbd>ctrl</kbd>+<kbd>P</kbd> then <kbd>ctrl</kbd>+<kbd>Q</kbd><br>- _make sure you don't have that binded to a command already_
 |docker images| show docker images<br>- initial images are like systems (linux distros) |
 |docker ps | show docker containers|
 |docker ps -l| show last docker container<br>it is helpful to create an image from a container|
