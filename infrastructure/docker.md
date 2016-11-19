@@ -5,7 +5,7 @@
   - [3. Some important commands](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md#3-some-important-commands)
   - [4. Dockerfile](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md#4-dockerfile)
 
-### 1. Install docker on your system - [press to top](#)
+### 1. Install docker on your system
 - Use Docker for Mac and Docker for Windows
   - [Install Docker and run hello-world](https://docs.docker.com/engine/getstarted/step_one/#step-1-get-docker)
 
