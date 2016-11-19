@@ -26,7 +26,7 @@
 |Command|Purpose|
 |---------|---|
 |docker run | run a docker image/container<br>-t terminal & -i interactive<br>example: `docker run -ti ubuntu:latest bash`<br>if you don't have an ubuntu image, it will download and create it for you<br>--rm removes a created container after it does its task(s)<br>-d detach, leave the container to run in the background|
-|docker images| show docker images<br>- *initial images consist of* **just enough** *to form a system*<br>- *they are much smaller than complete OSs* |
+|docker images| show docker images<br>- *initial images consist of* **just enough** *to form operating systems*<br>- *they are much smaller than complete OSs* |
 |docker ps |show running docker containers: `docker ps`<br>show last used container: `docker ps -l`<br>show all existing containers: `docker ps -a` |
 |docker kill| stop a container: `docker kill container_name`<br>- _stopped containers still exist_<br>to stop all: `docker stop $(docker ps -a -q)`|
 |docker rm| remove a container: `docker rm container_name`<br>to remove all: `docker rm $(docker ps -a -q)`|
