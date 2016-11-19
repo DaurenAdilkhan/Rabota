@@ -26,9 +26,13 @@
 |Command|Purpose|
 |---------|---|
 |docker run | run a docker image/container<br>-t terminal & -i interactive<br>example: `docker run -ti ubuntu:latest bash`<br>if you don't have an ubuntu image, it will download and create it for you<br>--rm removes a created container after it does its task(s)<br>-d detach, leave the container to run in the background|
+|docker kill| stop a container: `docker kill container_name`<br>- _stopped containers still exist_|
+|docker rm| removes a container: `docker rm container_name`|
 |docker attach | enter the container that is running<br> to exit container without turning it off:<br>either close the terminal tab or press <kbd>ctrl</kbd>+<kbd>P</kbd> then <kbd>ctrl</kbd>+<kbd>Q</kbd><br>- _make sure you don't have that binded to a command already_
 |docker images| show docker images<br>- initial images are like systems (linux distros) |
 |docker ps | show docker containers|
 |docker ps -l| show last docker container<br>it is helpful to create an image from a container|
+|docker ps -a| show all existing containers|
 |docker commit| create an image from a specified container, example:<br>`docker commit container_name image_name`|
 |docker tag| allows to change the name of the image, example:<br> `docker tag previous_image_name new_image_name`|
+|docker logs| retrive logs of a container, example:<br>`docker logs name_of_a_container`|
