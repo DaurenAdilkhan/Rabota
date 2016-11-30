@@ -22,7 +22,7 @@
 
   - <strong>Editing - [press to top](#)</strong>
   
-| Shortcut | Description |
+  | Shortcut | Description |
 |---|---|
 |<kbd>Ctrl</kbd> + <kbd>U</kbd>| Clean everything towards the beginning |
 |<kbd>Ctrl</kbd> + <kbd>K</kbd>| Clean everything towards the end |
@@ -33,8 +33,7 @@
 
 
 ## 2. Commands
-### 2.1. Archives - [press to top](#)
-  - <strong>Tar</strong>
+  - <strong>Archives - [press to top](#)</strong>
 
   | Command | Description |
 |---|---|
