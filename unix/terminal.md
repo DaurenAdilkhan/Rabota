@@ -7,6 +7,9 @@
 |<kbd>Ctrl</kbd> + <kbd>E</kbd>| To end of the line |
 |<kbd>Ctrl</kbd> + <kbd>Left Arrow</kbd> or <kbd>Alt</kbd> + <kbd>B</kbd>| To next word on the left  |
 |<kbd>Ctrl</kbd> + <kbd>Right Arrow</kbd> or <kbd>Alt</kbd> + <kbd>F</kbd>| To next word on the right |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>| New tab |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>| Close tab |
+|<kbd>Shift</kbd> + <kbd>Arrow</kbd>| Switch between tabs |
 
 ### Editing
 | Shortcut     | Description |
