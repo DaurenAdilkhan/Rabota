@@ -8,8 +8,9 @@
   - [Archives](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#1-archives---press-to-top)
 
 ## 1. Shortcuts
-### 1.1. Navigation:
-| Shortcut     | Description |
+  - <strong>Navigation:</strong>
+  
+  | Shortcut     | Description |
 |---|---|
 |<kbd>Ctrl</kbd> + <kbd>A</kbd>| To beginning of the line |
 |<kbd>Ctrl</kbd> + <kbd>E</kbd>| To end of the line |
@@ -19,7 +20,8 @@
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>| Close tab |
 |<kbd>Shift</kbd> + <kbd>Arrow</kbd>| Switch between tabs |
 
-### 1.2. Editing - [press to top](#)
+  - <strong>Editing - [press to top](#)</strong>
+  
 | Shortcut | Description |
 |---|---|
 |<kbd>Ctrl</kbd> + <kbd>U</kbd>| Clean everything towards the beginning |
