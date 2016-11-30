@@ -1,8 +1,14 @@
 # Basic terminal commands and shortcuts
 ---
+## Contents
+- [Shortcuts](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#shortcuts)
+  - [Navigation](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#1-navigation)
+  - [Editing](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#2-editing---press-to-top)
+- [Commands](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#commands)
+  - [Archives](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#1-archives---press-to-top)
 
-## Shortcuts
-### 1. Navigation:
+## 1. Shortcuts
+### 1.1. Navigation:
 | Shortcut     | Description |
 |---|---|
 |<kbd>Ctrl</kbd> + <kbd>A</kbd>| To beginning of the line |
@@ -13,7 +19,7 @@
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>| Close tab |
 |<kbd>Shift</kbd> + <kbd>Arrow</kbd>| Switch between tabs |
 
-### 2. Editing - [press to top](#)
+### 1.2. Editing - [press to top](#)
 | Shortcut | Description |
 |---|---|
 |<kbd>Ctrl</kbd> + <kbd>U</kbd>| Clean everything towards the beginning |
@@ -24,8 +30,8 @@
 |<kbd>Ctrl</kbd> + <kbd>Y</kbd>| Paste last deleted words through shortcuts|
 
 
-## Commands
-### 1. Archives - [press to top](#)
+## 2. Commands
+### 2.1. Archives - [press to top](#)
   - <strong>Tar</strong>
 
   | Command | Description |
