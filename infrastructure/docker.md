@@ -2,8 +2,8 @@
 ### Contents
   - [1. Install docker on your system](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md#1-install-docker-on-your-system)
   - [2. Add personal format output for commands](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md#2-add-personal-format-output-for-commands---press-to-top)
-  - [3. Containers](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md#3-some-important-commands---press-to-top)
-  - [4. Images]()
+  - [3. Containers](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md#3-containers---press-to-top)
+  - [4. Images](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md#4-images---press-to-top)
   - [5. Dockerfile](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md#5-dockerfile---press-to-top)
   - [6. Sharing](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md#6-sharing---press-to-top)
 
