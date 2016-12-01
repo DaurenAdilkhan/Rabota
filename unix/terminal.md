@@ -1,10 +1,10 @@
 # Basic terminal commands and shortcuts
 ## Contents
-- [Shortcuts](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#shortcuts)
-  - [Navigation](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#1-navigation)
-  - [Editing](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#2-editing---press-to-top)
-- [Commands](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#commands)
-  - [Archives](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#1-archives---press-to-top)
+- [Shortcuts](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#1-shortcuts)
+  - Navigation
+  - Editing
+- [Commands](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#2-commands)
+  - Archives
 
 ## 1. Shortcuts
   - <strong>Navigation:</strong>
