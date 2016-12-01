@@ -1,5 +1,4 @@
 # Basic terminal commands and shortcuts
----
 ## Contents
 - [Shortcuts](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#shortcuts)
   - [Navigation](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#1-navigation)
