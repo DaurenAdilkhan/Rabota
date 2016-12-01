@@ -33,7 +33,7 @@
 |Command|Purpose|
 |---------|---|
 |docker attach |`docker attach` to enter the container that is running<br>exit container without turning it off:<br>either close the terminal tab or press <kbd>ctrl</kbd>+<kbd>P</kbd> then <kbd>ctrl</kbd>+<kbd>Q</kbd><br>- _make sure you don't have that binded to a command already_|
-|docker exec| execute a command in container|
+|docker exec| execute a command in a container, example:<br>`docker exec container_name ./manage.py makemigrations`|
 |docker ps |show running docker containers: `docker ps`<br>show last used container: `docker ps -l`<br>show all existing containers: `docker ps -a` |
 |docker kill| stop a container: `docker kill container_name`<br>- _stopped containers still exist_<br>to stop all: `docker stop $(docker ps -a -q)`|
 |docker rm| remove a container: `docker rm container_name`<br>to remove all: `docker rm $(docker ps -a -q)`|
