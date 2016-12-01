@@ -4,6 +4,7 @@
   - [2. Add personal format output for commands](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md#2-add-personal-format-output-for-commands)
   - [3. Some important commands](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md#3-some-important-commands)
   - [4. Dockerfile](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md#4-dockerfile)
+  - [5. Sharing](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md#5-sharing)
 
 ### 1. Install docker on your system
 - Use Docker for Mac and Docker for Windows
@@ -49,3 +50,11 @@
 
 - Example:
     `docker build -t image_name dockerfile_folder`
+
+### 5. Sharing - [press to top](#)
+Besides `docker push`, `docker pull`, you can share it directly as an image file:
+
+|Command|Purpose|
+|---------|---|
+|`docker save -o imagesFile.zip image1 image2 imageN`| -o to specify the output file<br>that contains specified image(s)|
+|`docker load -i imagesFile`| -i to specify the input file<br> that contains image(s)|
