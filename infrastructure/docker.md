@@ -52,7 +52,7 @@
     `docker build -t image_name dockerfile_folder`
 
 ### 5. Sharing - [press to top](#)
-Besides `docker push`, `docker pull`, you can share it directly as an image file:
+Besides `docker push`, `docker pull`, you can share image(s) directly in a file:
 
 |Command|Purpose|
 |---------|---|
