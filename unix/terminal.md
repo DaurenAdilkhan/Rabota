@@ -1,7 +1,7 @@
 # Basic terminal shortcuts
 ### Contents
-  - [1. Navigation]()
-  - [2. Editing]()
+  - [1. Navigation](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#1-navigation)
+  - [2. Editing](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#2-editing---press-to-top)
 
 ### 1. Navigation
   
