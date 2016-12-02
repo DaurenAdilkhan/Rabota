@@ -1,13 +1,9 @@
-# Basic terminal commands and shortcuts
+# Basic terminal shortcuts
 ## Contents
-- [Shortcuts](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#1-shortcuts)
-  - Navigation
-  - Editing
-- [Commands](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md#2-commands)
-  - Archives
+  - [1.Navigation]()
+  - [2.Editing]()
 
-## 1. Shortcuts
-  - <strong>Navigation:</strong>
+### 1.Navigation
   
   | Shortcut     | Description |
 |---|---|
@@ -19,7 +15,7 @@
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>| Close tab |
 |<kbd>Shift</kbd> + <kbd>Arrow</kbd>| Switch between tabs |
 
-  - <strong>Editing - [press to top](#)</strong>
+### 2.Editing - [press to top](#)
   
   | Shortcut | Description |
 |---|---|
@@ -29,12 +25,3 @@
 |<kbd>Alt</kbd> + <kbd>D</kbd>| Remove a word on the right|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>| Undo |
 |<kbd>Ctrl</kbd> + <kbd>Y</kbd>| Paste last deleted words through shortcuts|
-
-
-## 2. Commands
-  - <strong>Archives - [press to top](#)</strong>
-
-  | Command | Description |
-|---|---|
-|`tar xvzf file.tar.gz`| Decompress .tar.gz to this folder |
-|`tar xvjf file.tar.bz2 (or .tbz)`| Decompress .tar.bz2 (or .tbz) to this folder |
