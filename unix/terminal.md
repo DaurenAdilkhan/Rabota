@@ -1,9 +1,9 @@
 # Basic terminal shortcuts
-## Contents
-  - [1.Navigation]()
-  - [2.Editing]()
+### Contents
+  - [1. Navigation]()
+  - [2. Editing]()
 
-### 1.Navigation
+### 1. Navigation
   
 | Shortcut     | Description |
 |---|---|
@@ -15,7 +15,7 @@
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>| Close tab |
 |<kbd>Shift</kbd> + <kbd>Arrow</kbd>| Switch between tabs |
 
-### 2.Editing - [press to top](#)
+### 2. Editing - [press to top](#)
   
 | Shortcut | Description |
 |---|---|
