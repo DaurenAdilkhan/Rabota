@@ -5,7 +5,7 @@
 
 ### 1.Navigation
   
-  | Shortcut     | Description |
+| Shortcut     | Description |
 |---|---|
 |<kbd>Ctrl</kbd> + <kbd>A</kbd>| To beginning of the line |
 |<kbd>Ctrl</kbd> + <kbd>E</kbd>| To end of the line |
@@ -17,7 +17,7 @@
 
 ### 2.Editing - [press to top](#)
   
-  | Shortcut | Description |
+| Shortcut | Description |
 |---|---|
 |<kbd>Ctrl</kbd> + <kbd>U</kbd>| Clean everything towards the beginning |
 |<kbd>Ctrl</kbd> + <kbd>K</kbd>| Clean everything towards the end |
