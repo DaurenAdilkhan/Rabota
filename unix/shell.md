@@ -4,8 +4,8 @@
     - 1.1. Archives
 
 
-### 1. Commands
-#### 1.1. Archives
+## 1. Commands
+### 1.1. Archives
 
 | Command | Description |
 |---|---|
