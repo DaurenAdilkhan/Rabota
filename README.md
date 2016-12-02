@@ -1,6 +1,6 @@
 # Personal cheatsheets
 
-##### Repo of little guides primarily for myself to better remember some of the topics I learned
+##### Repo of guides containing the most important parts of those areas of study
 
 ### Infrastructure
 | Topic     | Description |
