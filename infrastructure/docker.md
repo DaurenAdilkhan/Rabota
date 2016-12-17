@@ -17,7 +17,7 @@
 | --- | --- |
 | [Docker Engine](https://docs.docker.com/engine/installation/) | Creates operating environment for your applications |
 | [Docker Compose](https://docs.docker.com/compose/install/)    | Compose is a tool for defining and running multi-container Docker applications. <br> With Compose, you use a Compose file to configure your application’s services.  |
-| [Docker Machine](https://docs.docker.com/machine/install-machine/) | Provisions and manages remote Docker hosts <br> Provisions Swarm clusters |
+| [Docker Machine](https://docs.docker.com/machine/install-machine/) | Provisions and manages remote Docker hosts <br> Provisions Swarm clusters<br>[docker-machine-kvm](https://github.com/dhiltgen/docker-machine-kvm) - kvm driver for docker-machine |
 
 ### 2. Add personal format output for commands - [press to top](#)
 - First, you need to login: `docker login`
