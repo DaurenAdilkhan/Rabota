@@ -4,4 +4,4 @@
 
 | Shortcut | Description |
 | -------- | ----------- |
-| `:%s/stringToReplace/finalValue/g` | `every occurence of **stringToReplace** will be replaced by **finalValue**` |
+| `:%s/stringToReplace/finalValue/g` | every occurence of **stringToReplace** will be replaced by **finalValue** |
