@@ -12,3 +12,8 @@
 |---|---|
 |[Terminal](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md)| Command line interface. Shortcuts|
 |[Shell](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/shell.md)| Shell. Commands|
+
+### Text editors
+| Topic     | Description |
+|---|---|
+|[Vim](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/text-editors/vim.md)| Modal. Light
