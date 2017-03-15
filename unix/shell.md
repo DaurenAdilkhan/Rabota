@@ -23,4 +23,4 @@
 
 | Command | Description |
 |---|---|
-|`find . -type f -name "*.vue" | xargs sed -i "s/<template>/<template lang='pug'>/g`| Find in current directory files with a format .vue and then replace on all lines `<template>` with `<template lang='pug'>` |
+|`find . -type f -name "*.vue" | xargs sed -i "s/<template>/<template lang='pug'>/g"`| Find in current directory files with a format .vue and then replace on all lines `<template>` with `<template lang='pug'>` |
