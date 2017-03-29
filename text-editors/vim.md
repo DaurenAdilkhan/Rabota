@@ -13,7 +13,7 @@ Example of a config file: [.vimrc](https://github.com/OlzhasAlexandrov/cheatshee
 
 `nmap <F12> :set ts=2 sts=2 noet \| :retab! \| :set ts=4 sts=4 et \| retab<CR>`
 
-### 1.2. Find and replace
+### 1.2. Find and replace, [article](http://vim.wikia.com/wiki/Search_and_replace)
 
 | Command | Description |
 | -------- | ----------- |
