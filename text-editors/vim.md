@@ -8,6 +8,8 @@
 - Set tab characters as 4 spaces, then reindent
 `:set ts=4 sts=4 et`
 `retab`
+- Create a key mapping for the above **four** commands
+`nmap <F12> :set ts=2 sts=2 noet \| :retab! \| :set ts=4 sts=4 et \| retab<CR>`
 
 ## 2. Shortcuts
 ### 2.1. Find and replace
