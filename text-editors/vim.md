@@ -1,4 +1,5 @@
 # Vim
+Example of a config file: [.vimrc](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/text-editors/.vimrc)
 
 ## 1. General operations
 ### 1.1. Reindent 2 spaces with 4 spaces
