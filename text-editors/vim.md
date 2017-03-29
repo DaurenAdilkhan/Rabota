@@ -13,11 +13,8 @@ Example of a config file: [.vimrc](https://github.com/OlzhasAlexandrov/cheatshee
 
 `nmap <F12> :set ts=2 sts=2 noet \| :retab! \| :set ts=4 sts=4 et \| retab<CR>`
 
-## 2. Shortcuts
-### 2.1. Find and replace
+### 1.2. Find and replace
 
-| Shortcut | Description |
+| Command | Description |
 | -------- | ----------- |
 | `:%s/stringToReplace/finalValue/g` | every occurence of **stringToReplace** will be replaced by **finalValue** <br> add `c` at the end for confirmation, making it `gc` |
-| <kbd>Ctrl</kbd> + <kbd>[</kbd> | to normal mode |
-
