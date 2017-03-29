@@ -9,6 +9,7 @@
 `:set ts=4 sts=4 et`
 `retab`
 - Create a key mapping for the above **four** commands
+
 `nmap <F12> :set ts=2 sts=2 noet \| :retab! \| :set ts=4 sts=4 et \| retab<CR>`
 
 ## 2. Shortcuts
@@ -16,6 +17,6 @@
 
 | Shortcut | Description |
 | -------- | ----------- |
-| `:%s/stringToReplace/finalValue/g` | every occurence of **stringToReplace** will be replaced by **finalValue** <br> `c` add c at the end for confirmation |
+| `:%s/stringToReplace/finalValue/g` | every occurence of **stringToReplace** will be replaced by **finalValue** <br> add `c` at the end for confirmation, making it `gc` |
 | `<kbd>Ctrl</kbd> + <kbd>[</kbd>` | to normal mode |
 
