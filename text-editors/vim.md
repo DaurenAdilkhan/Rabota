@@ -19,5 +19,5 @@ Example of a config file: [.vimrc](https://github.com/OlzhasAlexandrov/cheatshee
 | Shortcut | Description |
 | -------- | ----------- |
 | `:%s/stringToReplace/finalValue/g` | every occurence of **stringToReplace** will be replaced by **finalValue** <br> add `c` at the end for confirmation, making it `gc` |
-| `<kbd>Ctrl</kbd> + <kbd>[</kbd>` | to normal mode |
+| <kbd>Ctrl</kbd> + <kbd>[</kbd> | to normal mode |
 
