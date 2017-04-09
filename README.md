@@ -1,6 +1,6 @@
 # Personal cheatsheets
 
-##### Personal notes, not intended to cover every aspect of the described ares
+##### Personal notes, not intended to cover every aspect of the described areas
 
 ### Infrastructure
 | Topic     | Description |
