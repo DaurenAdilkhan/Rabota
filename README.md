@@ -1,6 +1,6 @@
 # Personal cheatsheets
 
-##### Repo of guides containing the most important parts of those areas of study
+##### Personal notes, not intended to cover every aspect of the described ares
 
 ### Infrastructure
 | Topic     | Description |
