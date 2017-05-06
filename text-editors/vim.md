@@ -18,3 +18,9 @@ Example: my config file: [.vimrc](https://github.com/OlzhasAlexandrov/cheatsheet
 | Command | Description |
 | -------- | ----------- |
 | `:%s/stringToReplace/finalValue/g` | every occurence of **stringToReplace** will be replaced by **finalValue** <br> add `c` at the end for confirmation, making it `gc` |
+
+### 1.3. Save a file with sudo permissions
+`:w !sudo tee %`
+
+### 1.4. Go back in time
+`:earlier 60m`
