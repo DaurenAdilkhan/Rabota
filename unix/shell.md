@@ -3,6 +3,8 @@
   - 1. Commands
     - 1.1. Archives
     - 1.2. Pacman
+    - 1.3. Find & Replace
+    - 1.4. Format Drives
 
 
 ## 1. Commands
@@ -25,3 +27,17 @@
 |---|---|
 |`find ./ -type f -name "*.vue" -exec sed -i "s:~plugins/wave:~plugins/mixins/wave:g" {} \;`| Find in current directory files with a format .vue and then replace on all lines |
 |`grep -rl --include *.vue 'showSiteMsg' .`|Search for text `showSiteMsg` recursively in all `.vue` files|
+
+### 1.4. Format drives
+
+Install necessary pkgs:
+`sudo pacman -S dosfstools`
+`sudo pacman -S ntfsprogs`
+
+| Command | Description |
+|---|---|
+|`df -h`| List all attached filesystems |
+|`sudo umount fsName`|fsName example `/dev/sdb2`|
+|`sudo mkfs.vfat fsName`|vFat fs formatting|
+|`sudo mkfs.ntfs fsName`|NTFS fs formatting|
+|`sudo mkfs.ext4 fsName`|EXT4 fs formatting|
