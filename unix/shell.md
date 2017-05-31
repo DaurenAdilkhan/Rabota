@@ -1,10 +1,10 @@
 # Shell
 ### Contents
-  - 1. Commands
-    - 1.1. Archives
-    - 1.2. Pacman
-    - 1.3. Find & Replace
-    - 1.4. Format Drives
+1. Commands
+- Archives
+- Pacman
+- Find & Replace
+- Format Drives
 
 
 ## 1. Commands
