@@ -29,9 +29,11 @@
 |`grep -rl --include *.vue 'showSiteMsg' .`|Search for text `showSiteMsg` recursively in all `.vue` files|
 
 ### 1.4. Format drives
+![Screenshot from https://www.howtogeek.com/73178/what-file-system-should-i-use-for-my-usb-drive/](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/formats_OS_support.png)
 
 Install necessary pkgs:
 `sudo pacman -S dosfstools`
+
 `sudo pacman -S ntfsprogs`
 
 | Command | Description |
