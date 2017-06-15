@@ -112,18 +112,15 @@ highlight Comment cterm=italic guibg=white guifg=white ctermbg=white
 set nu
 set cursorline
 set nocompatible
+
+set autoindent
 set tabstop=4
 set shiftwidth=4
-
-autocmd Filetype vue setlocal ts=4 sw=4 sts=0 expandtab
-autocmd Filetype javascript setlocal ts=4 sw=4 sts=0 expandtab
-autocmd Filetype sass setlocal ts=4 sw=4 sts=0 expandtab
-autocmd Filetype pug setlocal ts=4 sw=4 sts=0 expandtab
-
 set smarttab
 set et
+
 set lz
-set wrap
+set nowrap
 set ai
 set cin
 set showmatch
