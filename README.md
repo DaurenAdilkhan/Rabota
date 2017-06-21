@@ -17,3 +17,8 @@
 | Topic     | Description |
 |---|---|
 |[Vim](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/text-editors/vim.md)| Modal. Light
+
+### Syntax
+| Topic     | Description |
+|---|---|
+|[Markdown](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/syntax/markdown.md)| Modal. Light
