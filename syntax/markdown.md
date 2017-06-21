@@ -7,7 +7,7 @@
 | `[make text url](url)`  | [link to cheatsheets](https://github.com/OlzhasAlexandrov/cheatsheets) |
 | `_text_`, `*text*`, or `*` | _emphasized_, *italic*, *italic |
 | `**bold**` | **bold** |
-| `# H1`, `## H2`, etc. | # H1 <br> # H2 |
+| `# H1`, `## H2`, etc. | # H1 <br> ## H2 |
 | `* unordered point`, `+`, `-`, `*` | + bullet point <br> - bullet point <br> * bullet point |
 | `1. ordered point` | 1. ordered point |
 | `> quote` | > quote text |
