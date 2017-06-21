@@ -21,4 +21,4 @@
 ### Syntax
 | Topic     | Description |
 |---|---|
-|[Markdown](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/syntax/markdown.md)| Modal. Light
+|[Markdown](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/syntax/markdown.md)| Used on websites to prevent Cross Site Security (XSS) problems
