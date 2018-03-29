@@ -7,6 +7,7 @@
 1. [Запуск fish](#start)
 1. [Добавление кастомных alias](#alias)
 1. [Установка кастомных тем](#themes)
+1. [Мелкие фиксы](#fixes)
 
 ## <a name="info"></a> Описание
 
@@ -95,3 +96,11 @@ fish install --path=~/.local/share/omf --config=~/.config/omf
 ```bash
 omf install cyan
 ```
+
+## <a name="fixes"></a> Мелкие фиксы
+Если после темы Вы видите в начале '[I]', и она вас раздражает, то пишите следующее в `fish`
+```fish
+fish_default_key_bindings 
+```
+
+
