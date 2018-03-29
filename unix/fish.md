@@ -4,6 +4,8 @@
 
 1. [Описание](#info)
 1. [Установка](#install)
+   * [Для Linux](#install-linux)
+   * [Для Mac OSX](#install-macosx)
 1. [Запуск fish](#start)
 1. [Установить fish по-умолчанию в терминале](#default)
 1. [Добавление кастомных alias](#alias)
@@ -16,7 +18,7 @@
 
 ## <a name="install"></a> Установка
 
-### Для пользователей Linux
+### <a name="install-linux"></a> Для пользователей Linux
 
 Открываете терминал и пишите
 
@@ -26,7 +28,7 @@ sudo apt-get update
 sudo apt-get install fish
 ```
 
-### Для пользователей Mac OSX
+### <a name="install-macosx"></a>  Для пользователей Mac OSX
 
 Cледуете по этой [инструкции](https://github.com/ellerbrock/fish-shell-setup-osx)
 
