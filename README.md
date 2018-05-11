@@ -28,3 +28,5 @@
 | Topic  | Description |
 |---|---|
 |[Git](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/vcs/git.md)| Most popular VCS |
+|Git template| templates issues and pull requests|
+
