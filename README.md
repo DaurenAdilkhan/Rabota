@@ -33,4 +33,4 @@
 
 | Topic  | Description |
 |---|---|
-|[Issue & Pull request](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/vcs/git.md)| git issue and pull request templates |
+|[Issue & Pull request](https://github.com/OlzhasAlexandrov/cheatsheets/git-template/readme.md)| git issue and pull request templates |
