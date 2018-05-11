@@ -1,0 +1,60 @@
+{
+    // Editor
+    "editor.tabSize": 2,
+    "editor.fontSize": 12,
+    "editor.minimap.enabled": false,
+    "window.restoreWindows": "none",
+    "editor.renderWhitespace": "all",
+    "editor.snippetSuggestions": "top",
+    "zenMode.hideTabs": false,
+    "editor.rulers": [80],
+    "workbench.colorCustomizations": { 
+        "editorRuler.foreground": "#0075c3", 
+        "editorIndentGuide.activeBackground": "#9e9e9e"
+    },
+    // Vim
+    "vim.easymotion": true,
+    "vim.leader": ",",
+    "vim.useCtrlKeys": true,
+    "vim.useSystemClipboard": true,
+    "vim.handleKeys": { "<C-d>": true },
+    // Prettier
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[vue]": {
+        "editor.formatOnSave": true
+    },
+    "[stylus]": {
+        "editor.formatOnSave": true
+    },
+    "prettier.trailingComma": "all",
+    "prettier.semi": false,
+    "prettier.disableLanguages": [],
+    "prettier.eslintIntegration": false,
+    // Gitlens
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "team.showWelcomeMessage": false,
+    "explorer.confirmDelete": false,
+    // Bracket Pair
+    "bracketPairColorizer.showHorizontalScopeLine": false,
+    "bracketPairColorizer.showVerticalScopeLine": false,
+    // Todo tree
+    "todo-tree.showInExplorer": false,
+    "todo-tree.regex": "((//| |#|<!--|;|/\\*)\\s*($TAGS)|^\\s*- \\[ \\])",
+    "todo-tree.flat": true,
+    "todo-tree.tags": [
+        "TODO",
+        "FIXME",
+        "@todo"
+      ]
+}
