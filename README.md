@@ -33,4 +33,10 @@
 
 | Topic  | Description |
 |---|---|
-|[Issue & Pull request](https://github.com/OlzhasAlexandrov/cheatsheets/git-template/readme.md)| git issue and pull request templates |
+|[Issue & Pull request](https://github.com/OlzhasAlexandrov/cheatsheets/git-template/readme.md)| Git issue and pull request templates |
+
+### Vue
+
+| Topic  | Description |
+|---|---|
+|[Vue build dev](https://github.com/OlzhasAlexandrov/alexandrov-web-docs/blob/master/vue/vue-build-dev.md)| Vue build dev local instalation
