@@ -1,42 +1,53 @@
-# Personal cheatsheets
+# Web docs
 
-##### Personal notes, not intended to cover every aspect of the described areas
+> Разные заметки для оптимизации рабочих процессов
 
 ### Infrastructure
+
 | Topic     | Description |
 |---|---|
-|[Docker](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md)| Containerization platform|
+|[Docker](/infrastructure/docker.md)| Containerization platform|
 
 ### Unix
+
 | Topic     | Description |
 |---|---|
-|[Terminal](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md)| Command line interface. Shortcuts|
-|[Shell](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/shell.md)| Shell. Commands|
-|[Fish shell](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/fish.md)| Fish Shell|
+|[Terminal](/unix/terminal.md)| Command line interface. Shortcuts|
+|[Shell](/unix/shell.md)| Shell. Commands|
+|[Fish shell](/unix/fish.md)| Fish Shell|
 
 ### Text editors
+
 | Topic     | Description |
 |---|---|
-|[Vim](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/text-editors/vim.md)| Modal. Light
+|[Vim](/text-editors/vim.md)| Modal. Light
 
 ### Syntax
+
 | Topic     | Description |
 |---|---|
-|[Markdown](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/syntax/markdown.md)| Used on websites to prevent Cross Site Security (XSS) problems
+|[Markdown](/syntax/markdown.md)| Used on websites to prevent Cross Site Security (XSS) problems
 
 ### Version Control System (VCS)
+
 | Topic  | Description |
 |---|---|
-|[Git](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/vcs/git.md)| Most popular VCS |
+|[Git](/vcs/git.md)| Most popular VCS |
 
 ### Templates
 
 | Topic  | Description |
 |---|---|
-|[Issue & Pull request](https://github.com/OlzhasAlexandrov/cheatsheets/git-template/readme.md)| Git issue and pull request templates |
+|[Issue & Pull request](/git-template/readme.md)| Git issue and pull request templates |
 
 ### Vue
 
 | Topic  | Description |
 |---|---|
-|[Vue build dev](https://github.com/OlzhasAlexandrov/alexandrov-web-docs/blob/master/vue/vue-build-dev.md)| Vue build dev local instalation
+|[Vue build dev](/vue/vue-build-dev.md)| Vue build dev local instalation
+
+### Webhooks
+
+| Topic  | Description |
+|---|---|
+|[GitHub](/vue/vue-build-dev.md)| Suggested notification settings |
