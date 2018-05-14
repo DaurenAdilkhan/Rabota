@@ -50,4 +50,4 @@
 
 | Topic  | Description |
 |---|---|
-|[GitHub](/vue/vue-build-dev.md)| Suggested notification settings |
+|[GitHub](/webhooks/github.png)| Suggested notification settings |
