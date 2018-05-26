@@ -1,6 +1,6 @@
 # Changelog
 
-**[Click here to see the original template](https://github.com/OlzhasAlexandrov/alexandrov-web-docs/tree/develop/vcs/CHANGELOG.md)**
+**[Click here to see the original template](https://github.com/OlzhasAlexandrov/alexandrov-web-docs/tree/develop/unix/git/CHANGELOG.md)**
 
 All notable changes to this project will be documented in this file.
 
