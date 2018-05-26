@@ -2,58 +2,56 @@
 
 > Разные заметки для оптимизации рабочих процессов
 
-### Infrastructure
-
-| Topic     | Description |
-|---|---|
-|[Docker](/infrastructure/docker.md)| Containerization platform|
-
-### Unix
-
-| Topic     | Description |
-|---|---|
-|[Terminal](/unix/terminal.md)| Command line interface. Shortcuts|
-|[Shell](/unix/shell.md)| Shell. Commands|
-|[Fish shell](/unix/fish.md)| Fish Shell|
-
-### Text editors
-
-| Topic     | Description |
-|---|---|
-|[Vim](/text-editors/vim.md)| Modal. Light
+## Для общего развития
 
 ### Syntax
 
 | Topic     | Description |
 |---|---|
-|[Markdown](/syntax/markdown.md)| Used on websites to prevent Cross Site Security (XSS) problems
+|[Markdown](/_beginner/syntax/markdown.md)| Used on websites to prevent Cross Site Security (XSS) problems
 
-### Version Control System (VCS)
+### Text Editors
 
-| Topic  | Description |
+| Topic     | Description |
 |---|---|
-|[Git](/vcs/git.md)| Most popular VCS |
+|[Vim](/_beginner/text-editors/vim/vim.md)| Modal. Light |
+|[VS Code - Extensions](/_beginner/text-editors/vscode/config/miramaxed_extensions.list)| Suggested list of extensions (Apr 15, 2018) |
 
-### Templates
-
-| Topic  | Description |
-|---|---|
-|[Issue & Pull request](/git-template/readme.md)| Git issue and pull request templates |
+## JavaScript
 
 ### Vue
 
 | Topic  | Description |
 |---|---|
-|[Vue build dev](/vue/vue-build-dev.md)| Vue build dev local instalation
+|[@alexandrov/vue-build-dev](/javascript/vue/vue-build-dev.md)| Webpack build for local-only development |
 
-### Webhooks
-
-| Topic  | Description |
-|---|---|
-|[GitHub](/webhooks/github.png)| Suggested notification settings |
-
-### NPM node_modules 
+### Node.js
 
 | Topic  | Description |
 |---|---|
-|[NPM](/npm/npm-delete.md)| Search for "node_modules" directories, modified more than 7 days ago and delete them|
+|[Node modules](/javascript/node/old-modules-removal.md)| Search for "node_modules" directories, modified more than 7 days ago and delete them|
+
+## Unix
+
+### CLI - Command Line Interface
+
+| Topic     | Description |
+|---|---|
+|[Terminal](/unix/cli/terminal.md)| Command line interface. Shortcuts|
+|[Shell](/unix/cli/shell/shell.md)| Shell. Commands|
+|[Fish shell](/unix/cli/fish.md)| Fish Shell|
+
+### Git - Version Control System (VCS)
+
+| Topic     | Description |
+|---|---|
+|[Git](/unix/git/overview.md)| Overview |
+|[Changelog](/unix/git/CHANGELOG.md)| Example on how to maintain a changelog for releases |
+|[GitHub - Issue & PR](/unix/git/github/templates/readme.md)| Templates for issues and pull requests|
+|[GitHub - Webhooks](/unix/git/github/webhook-settings.png)| Suggested notification settings |
+
+### Infrastructure
+
+| Topic     | Description |
+|---|---|
+|[Docker](/unix/infrastructure/docker.md)| Containerization platform|
