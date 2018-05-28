@@ -24,6 +24,8 @@
 | Topic  | Description |
 |---|---|
 |[@alexandrov/vue-build-dev](/javascript/vue/vue-build-dev.md)| Webpack build for local-only development |
+|[Vue](https://vuejs-tips.github.io/cheatsheet/)| Vue cheatsheet |
+|[Vuex](https://vuejs-tips.github.io/vuex-cheatsheet/)| Vuex cheatsheet |
 
 ### Node.js
 
