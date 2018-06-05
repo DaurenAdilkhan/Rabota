@@ -19,14 +19,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - The release date of each version is displayed.
 - Mention whether you follow Semantic Versioning.
 
-### Types of changes
-
-- Added for new features.
-- Changed for changes in existing functionality.
-- Deprecated for soon-to-be removed features.
-- Removed for now removed features.
-- Fixed for any bug fixes.
-- Security in case of vulnerabilities.
+| Types of changes | Description |
+| ---------------- | ----------- |
+| Added | new features |
+| Changed | changes in existing functionality |
+| Deprecated | soon-to-be removed features |
+| Removed | removed features |
+| Fixed | any bug fixes |
+| Security | in case of vulnerabilities |
 
 ## [Unreleased]
 
