@@ -1,0 +1,134 @@
+{
+  "window.title": "${activeEditorShort}${separator}${folderPath}",
+  "window.zoomLevel": 0,
+  // "window.zoomLevel": 0.2,
+  "editor.minimap.enabled": false,
+  "editor.scrollBeyondLastLine": false,
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.quickSuggestions": { // Controls if quick suggestions should show up while typing
+      "other": true,
+      "comments": false,
+      "strings": false
+  },
+  "editor.acceptSuggestionOnEnter": "smart", // Controls if suggestions should be accepted with "Enter" - in addition to "Tab". Helps to avoid ambiguity between inserting new lines and accepting suggestions.
+  "editor.quickSuggestionsDelay": 10, // Controls the delay in ms after which quick suggestions will show up.
+  // "editor.wordBasedSuggestions": false, // Enable word based suggestions
+  "[javascript]": {
+      // "editor."
+      // "editor.formatOnPaste": true,
+      "editor.formatOnType": true,
+      "editor.formatOnSave": true,
+  },
+  "[graphql]": {
+      "editor.formatOnPaste": true,
+      "editor.formatOnType": true,
+      "editor.formatOnSave": true,
+  },
+  "[stylus]": {
+      "editor.formatOnSave": true,
+  },
+  "[html]": {
+      "editor.formatOnSave": false,
+  },
+  "editor.snippetSuggestions": "top",
+  //
+  "explorer.autoReveal": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  // "liveshare.guestApprovalRequired": true, // Require host to approve all guests attempting to join collaboration session.
+  "zenMode.hideTabs": false,
+  "files.insertFinalNewline": true,
+  // "javascript.nameSuggestions": false,
+  // prettier configs
+
+  "prettier.trailingComma": "all",
+  "prettier.semi": false,
+  "prettier.disableLanguages": [],
+  "prettier.eslintIntegration": true,
+
+  "languageStylus.useSeparator": false,
+  "stylusSupremacy.alwaysUseZeroWithoutUnit": true,
+  "stylusSupremacy.insertBraces": false,
+  "stylusSupremacy.insertColons": true,
+  "stylusSupremacy.insertLeadingZeroBeforeFraction": false,
+  "stylusSupremacy.insertSemicolons": false,
+
+  "vim.leader": ",",
+  "vim.easymotion": true,
+  "vim.scroll": 15,
+  "vim.useCtrlKeys": true,
+  "vim.useSystemClipboard": true,
+  "vim.handleKeys": {
+      "<C-d>": true,
+      "<C-w>": true,
+      "<Tab>": true
+  },
+  "emmet.triggerExpansionOnTab": false,
+
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.visible": false,
+  "workbench.colorTheme": "Gantheory",
+  "workbench.colorCustomizations": {
+      "editorIndentGuide.activeBackground": "#ff0000"
+  },
+  "workbench.editor.labelFormat": "short",
+  "workbench.editor.showIcons": false,
+
+  "npm.enableScriptExplorer": false,
+
+  "git.autofetch": true,
+  "todo-tree.ripgrep": "/Applications/Visual Studio Code.app/Contents/Resources/app/node_modules.asar.unpacked/vscode-ripgrep/bin/rg",
+  "files.autoSave": "off",
+  "gitlens.advanced.messages": {
+      "suppressCommitHasNoPreviousCommitWarning": false,
+      "suppressCommitNotFoundWarning": false,
+      "suppressFileNotUnderSourceControlWarning": false,
+      "suppressGitVersionWarning": false,
+      "suppressLineUncommittedWarning": false,
+      "suppressNoRepositoryWarning": false,
+      "suppressResultsExplorerNotice": true,
+      "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.codeLens.enabled": false,
+  "gitlens.hovers.enabled": false,
+  "gitlens.blame.avatars": false,
+  "gitlens.statusBar.enabled": false,
+  "gitlens.explorers.avatars": false,
+  "gitlens.currentLine.enabled": false,
+  "gitlens.hovers.currentLine.over": "line",
+  // "previewjsdoc.autoOpenBrowser": true,
+  // "previewjsdoc.conf": {
+  //     "plugins": [
+  //         "node_modules/jsdoc-vue"
+  //     ],
+  //     "source": {
+  //         "includePattern": "\\.(vue|js)$"
+  //         // "includePattern": ".+\\.js(doc|x)?$",
+  //         // "excludePattern": "(^|\\/|\\\\)_"
+  //     },
+  //     "jsdoc-vuejs": {
+  //         "followImports": true // enable/disable require/import function 
+  //     }
+  // },
+  "todo-tree.showInExplorer": false,
+  "todo-tree.regex": "((//| |#|<!--|;|/\\*)\\s*($TAGS)|^\\s*- \\[ \\])",
+  "todo-tree.flat": true,
+  "todo-tree.tags": [
+      "TODO",
+      "FIXME",
+      "@todo"
+  ],
+
+  "doiuse.browsers": ["> 1%", "last 2 versions", "IE > 10"],
+  "doiuse.enable": true, // Control whether doiuse is enabled for styles files or not.
+  "doiuse.ignore": [], // An optional array of features to ignore.
+  "doiuse.ignoreFiles": [], // An optional array of file globs to match against original source file path, to ignore.
+  "doiuse.messageLevel": "Information", // Represents a diagnostic level, such as a Information, Warning or Error.
+  "doiuse.run": "onType",
+  "gitlens.historyExplorer.enabled": true, // Run the linter on save (onSave) or on type (onType).
+
+  "markdownlint.config": {
+      "MD024": false, // no-duplicate-header
+  },
+}
