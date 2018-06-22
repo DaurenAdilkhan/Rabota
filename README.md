@@ -1,37 +1,63 @@
-# Personal cheatsheets
+# Web docs
 
-##### Personal notes, not intended to cover every aspect of the described areas
+> Разные заметки для оптимизации рабочих процессов
 
-### Infrastructure
+## Для общего развития
+
+### Syntax
+
 | Topic     | Description |
 |---|---|
-|[Docker](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/infrastructure/docker.md)| Containerization platform|
+|[Markdown](/_beginner/syntax/markdown.md)| Used on websites to prevent Cross Site Security (XSS) problems
 
-### Unix
+### Text Editors
+
 | Topic     | Description |
 |---|---|
 |[Terminal](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md)| Command line interface. Shortcuts|
 |[Shell](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/shell.md)| Shell. Commands|
 |[Fish shell](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/fish.md)| Fish Shell|
 |[Commitlint](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/commitlint.md) | Commit Lint |
+|[Vim](/_beginner/text-editors/vim/vim.md)| Modal. Light |
+|[VS Code - Extensions](/_beginner/text-editors/vscode/config/miramaxed_extensions.list)| Suggested list of extensions (Apr 15, 2018) |
 
-### Text editors
-| Topic     | Description |
-|---|---|
-|[Vim](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/text-editors/vim.md)| Modal. Light
+## JavaScript
 
-### Syntax
-| Topic     | Description |
-|---|---|
-|[Markdown](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/syntax/markdown.md)| Used on websites to prevent Cross Site Security (XSS) problems
-
-### Version Control System (VCS)
-| Topic  | Description |
-|---|---|
-|[Git](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/vcs/git.md)| Most popular VCS |
-
-### Templates
+### Vue
 
 | Topic  | Description |
 |---|---|
-|[Issue & Pull request](https://github.com/OlzhasAlexandrov/cheatsheets/git-template/readme.md)| git issue and pull request templates |
+|[@alexandrov/vue-build-dev](/javascript/vue/vue-build-dev.md)| Webpack build for local-only development |
+|[Vue](https://vuejs-tips.github.io/cheatsheet/)| Vue cheatsheet |
+|[Vuex](https://vuejs-tips.github.io/vuex-cheatsheet/)| Vuex cheatsheet |
+
+### Node.js
+
+| Topic  | Description |
+|---|---|
+|[Node modules](/javascript/node/old-modules-removal.md)| Search for "node_modules" directories, modified more than 7 days ago and delete them|
+
+## Unix
+
+### CLI - Command Line Interface
+
+| Topic     | Description |
+|---|---|
+|[Terminal](/unix/cli/terminal.md)| Command line interface. Shortcuts|
+|[Shell](/unix/cli/shell/shell.md)| Shell. Commands|
+|[Fish shell](/unix/cli/fish.md)| Fish Shell|
+
+### Git - Version Control System (VCS)
+
+| Topic     | Description |
+|---|---|
+|[Git](/unix/git/overview.md)| Overview |
+|[Changelog](/unix/git/CHANGELOG.md)| Example on how to maintain a changelog for releases |
+|[GitHub - Issue & PR](/unix/git/github/templates/readme.md)| Templates for issues and pull requests|
+|[GitHub - Webhooks](/unix/git/github/webhook-settings.png)| Suggested notification settings |
+
+### Infrastructure
+
+| Topic     | Description |
+|---|---|
+|[Docker](/unix/infrastructure/docker.md)| Containerization platform|

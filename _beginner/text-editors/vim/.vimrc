@@ -131,6 +131,7 @@ set so=7
 set ruler
 syntax enable
 
+
 " COLORSCHEME AND THEME ===================================================
 set t_Co=256
 set background=dark
