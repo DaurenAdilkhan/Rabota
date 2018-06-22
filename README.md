@@ -13,6 +13,7 @@
 |[Terminal](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/terminal.md)| Command line interface. Shortcuts|
 |[Shell](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/shell.md)| Shell. Commands|
 |[Fish shell](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/fish.md)| Fish Shell|
+|[Commitlint](https://github.com/OlzhasAlexandrov/cheatsheets/blob/master/unix/commitlint.md) | Commit Lint |
 
 ### Text editors
 | Topic     | Description |
